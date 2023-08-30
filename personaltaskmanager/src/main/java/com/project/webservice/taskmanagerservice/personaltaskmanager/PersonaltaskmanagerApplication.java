@@ -1,4 +1,4 @@
-package com.project.webservice.taskmanagerservice.personaltaskmanager;
+package com.project.webservice.taskmanagerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
